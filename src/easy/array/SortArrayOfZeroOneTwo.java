@@ -2,6 +2,10 @@ package easy.array;
 
 import java.util.Arrays;
 
+/*
+ * Difficulty level: easy average
+ * */
+
 class SortArrayOfZeroOneTwo {
 
 	public static void main(String[] args) {
